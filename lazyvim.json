@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lsp.none-ls",
+    "lazyvim.plugins.extras.util.gitui"
+  ],
+  "news": {
+    "NEWS.md": "3314"
+  },
+  "version": 3
+}
